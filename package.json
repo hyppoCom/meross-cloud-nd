@@ -1,0 +1,33 @@
+{
+  "name": "meross-cloud-nd",
+  "version": "1.5.0",
+  "description": "Control Meross cloud devices using nodejs withoud dependencies",
+  "author": "Ingo Fischer <iobroker@fischer-ka.de>",
+  "contributors": [
+    "Filippo Grassilli (https://npmjs.com/~hyppocom)"
+  ],
+  "homepage": "https://github.com/hyppoCom/meross-cloud-nd#readme",
+  "license": "MIT",
+  "keywords": [
+    "Meross",
+    "WLAN devices"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyppoCom/meross-cloud-nd.git"
+  },
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bugs": {
+    "url": "https://github.com/hyppoCom/meross-cloud-nd/issues"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
