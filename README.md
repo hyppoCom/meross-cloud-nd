@@ -1,11 +1,11 @@
-# meross-cloud
+# meross-cloud-nd
 
 
-[![NPM version](http://img.shields.io/npm/v/meross-cloud.svg)](https://www.npmjs.com/package/meross-cloud)
-[![Downloads](https://img.shields.io/npm/dm/meross-cloud.svg)](https://www.npmjs.com/package/meross-cloud)
-![Test and Release](https://github.com/Apollon77/meross-cloud/workflows/Test%20and%20Release/badge.svg)
+[![NPM version](http://img.shields.io/npm/v/meross-cloud.svg)](https://www.npmjs.com/package/meross-cloud-nd)
+[![Downloads](https://img.shields.io/npm/dm/meross-cloud.svg)](https://www.npmjs.com/package/meross-cloud-nd)
 
 This library allows to login into Meross cloud server, read the registered devices and open connections to the MQTT cloud server to get the datatosign
+This is a clone of meross-cloud [https://www.npmjs.com/package/meross-cloud] without dependency.
 
 ## Example
 
